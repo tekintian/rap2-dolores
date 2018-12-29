@@ -1,5 +1,5 @@
 module.exports = {
-  serve: 'http://127.0.0.1:8080',
+  serve: 'http://rap.soullv.com:8003',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess'
